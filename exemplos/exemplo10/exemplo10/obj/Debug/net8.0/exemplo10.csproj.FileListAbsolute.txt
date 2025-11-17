@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\exemplo10\exemplo10\bin\Debug\net8.0\exemplo10.exe
+C:\Users\user\source\repos\exemplo10\exemplo10\bin\Debug\net8.0\exemplo10.deps.json
+C:\Users\user\source\repos\exemplo10\exemplo10\bin\Debug\net8.0\exemplo10.runtimeconfig.json
+C:\Users\user\source\repos\exemplo10\exemplo10\bin\Debug\net8.0\exemplo10.dll
+C:\Users\user\source\repos\exemplo10\exemplo10\bin\Debug\net8.0\exemplo10.pdb
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.AssemblyInfo.cs
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.dll
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\refint\exemplo10.dll
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.pdb
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\exemplo10.genruntimeconfig.cache
+C:\Users\user\source\repos\exemplo10\exemplo10\obj\Debug\net8.0\ref\exemplo10.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\bin\Debug\net8.0\exemplo1comvetor.exe
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\bin\Debug\net8.0\exemplo1comvetor.deps.json
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\bin\Debug\net8.0\exemplo1comvetor.runtimeconfig.json
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\bin\Debug\net8.0\exemplo1comvetor.dll
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\bin\Debug\net8.0\exemplo1comvetor.pdb
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.AssemblyInfo.cs
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.dll
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\refint\exemplo1comvetor.dll
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.pdb
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\exemplo1comvetor.genruntimeconfig.cache
+C:\Users\user\source\repos\exemplo1comvetor\exemplo1comvetor\obj\Debug\net8.0\ref\exemplo1comvetor.dll
